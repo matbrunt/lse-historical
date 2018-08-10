@@ -1,0 +1,156 @@
+1999-2006
+Jan-Dec; Header: 3, A:H, M
+
+A: Month
+B: Market
+C: List Date
+D: Company
+E: Actuary Group
+F: Sector
+G: Sub Sector
+H: Country
+M: Market Cap (£m)
+
+Date format: 31-Dec-03
+
+2007
+Jan:Mar;
+Header: 6, A:H, M
+
+A: List Date
+B: Company
+C: Group
+D: Sector
+E: Sub Sector
+F: Country of Origin
+G: Region (UK Only)
+H: Market
+M: Mkt Cap £m
+
+Apr:Jun; Header: 7, A:I, N
+
+A: List Date
+B: Company
+C: Group
+D: Sector
+E: Sub Sector
+F: Country of Incorporation
+G: Region (UK Only)
+H: Country of Business (AIM only)
+I: Market
+M: Mkt Cap £m
+
+Jul-Aug; Header: 6, A:H, M
+Sep-Dec; Header: 7, A:H, M
+
+A: List Date
+B: Company
+C: Group
+D: Sector
+E: Sub Sector
+F: Country of Incorporation
+G: Region (UK Only)
+H: Market
+M: Mkt Cap £m
+
+2008-2012
+
+Jan-Dec; Header: 7, A:H, M
+
+A: List Date
+B: Company
+C: Group
+D: Sector
+E: Sub Sector
+F: Country of Incorporation
+G: Region (UK Only)
+H: Market
+M: Mkt Cap £m
+
+2013
+
+Jan-Sep; Header: 7, A:H, M
+
+A: List Date
+B: Company
+C: Group
+D: Sector
+E: Sub Sector
+F: Country of Incorporation
+G: Region (UK Only)
+H: Market
+M: Mkt Cap £m
+
+Oct-Dec; Header: 7, A:G, L
+
+A: List Date
+B: Company
+C: Group
+D: Sector
+E: Sub Sector
+F: Country of Incorporation
+G: Market
+L: Mkt Cap £m
+
+2014
+
+Jan-Dec; Header: 7, A:G, L
+
+A: List Date
+B: Company
+C: Group
+D: Sector
+E: Sub Sector
+F: Country of Incorporation
+G: Market
+L: Mkt Cap £m
+
+2015-2016
+
+Jan-Dec; Header: 7, A:H
+
+A: List Date
+B: Company
+C: Group
+D: Sector
+E: Sub Sector
+F: Country of Incorporation
+G: Market
+H: Mkt Cap £m
+
+2017
+
+Jan; Header: 7, A:H
+
+A: List Date
+B: Company
+C: Group
+D: Sector
+E: Sub Sector
+F: Country of Incorporation
+G: Market
+H: Mkt Cap £m
+
+Feb-Dec; Header: 6, A:G, I
+
+A: Admission Date
+B: Company Name
+C: Sector
+D: Sub Sector
+E: Country of Incorporation
+F: Region
+G: Market
+I: Company Market Cap (£m)
+
+2018
+
+Jan-May; Header: 6, B:H, J
+
+B: Admission Date
+C: Company Name
+D: Sector
+E: Sub Sector
+F: Country of Incorporation
+G: Region
+H: Market
+J: Company Market Cap (£m)
